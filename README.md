@@ -29,12 +29,13 @@ It is a counter application with add, remove and reset functions.
 When reaching "0", it is not possible to decrease the counter.
 
 ### Application sample screens
-![Application sample screens](https://github.com/rafamarquesrmb/flutter_counter_app/sample.png)
+![Application sample screens](https://raw.githubusercontent.com/rafamarquesrmb/flutter_counter_app/main/sample.png)
   
 
 ## Technologies:
 
 Flutter & Dart (using Material Design UI)
+
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
 
   
